@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**hitaarthh/hitaarthh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm a 19 year old student, pursuing my Undergraduate Program in Electronics and Computer Engineering from [Amrita Vishwa Vidyapeetham](https://amrita.edu/).
 
 Here are some ideas to get you started:
 
