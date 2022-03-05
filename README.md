@@ -1,13 +1,10 @@
 ### Hi there 👋, I'm a 19 year old student, pursuing my Undergraduate Program in Electronics and Computer Engineering from [Amrita Vishwa Vidyapeetham](https://amrita.edu/).
-
-Here are some ideas to get you started:
+I gathered My Skills loitering over the Internet, and I like working on FrontEnd as well as BackEnd Development.
 
 - 🔭 I’m currently working on Optimised User Interface Program.
 - 🌱 I’m currently learning Flutter UI Project.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [My Contact Details](https://linktr.ee/hitaarthh)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  [My Contact Details](https://linktr.ee/hitaarthh)
+
+
+
