@@ -1,4 +1,4 @@
-# Hi there 👋,                                
+# Hi there 👋                         
 # 🚀 About me         
 
 🎓 I'm Hitarth Anand Rohra, a 19 year old student, pursuing my Undergraduate Program in Electronics and Computer Engineering from [Amrita Vishwa Vidyapeetham](https://amrita.edu/), Amritapuri Campus. I gathered My Skills loitering over the Internet, and I like working on FrontEnd as well as BackEnd Development.
