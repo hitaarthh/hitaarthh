@@ -9,7 +9,7 @@
 
 📖 I love reading books on **personal development**, **financial literacy**.
 
-🎸 **Favourite Quote till date** - _Tough times creates strong men, strong men creates weak times, weak times create weak men._
+🎸 **Favourite Quote till date** - _Tough times create strong men, strong men create weak times, weak times create weak men._
 
 ✈️ I love travelling solo, my last trip was finding the secret of cosmos in my dreams.
 
