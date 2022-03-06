@@ -1,7 +1,7 @@
 # Hi there 👋,                                
 # 🚀 About me         
 
-🎓 I'm Hitarth Anand Rohra, a 19 year old student, pursuing my Undergraduate Program in Electronics and Computer Engineering from [Amrita Vishwa Vidyapeetham](https://amrita.edu/), Amritapuri Campus.I gathered My Skills loitering over the Internet, and I like working on FrontEnd as well as BackEnd Development.
+🎓 I'm Hitarth Anand Rohra, a 19 year old student, pursuing my Undergraduate Program in Electronics and Computer Engineering from [Amrita Vishwa Vidyapeetham](https://amrita.edu/), Amritapuri Campus. I gathered My Skills loitering over the Internet, and I like working on FrontEnd as well as BackEnd Development.
 
 💻 I enjoy contributing to **Open Source Projects** and I am really enthusiastic about learning new technologies. In 2021, I had improved my skills in the field of **Web Development**(**Both FrontEnd and BackEnd Development**). In 2022, till now i had been learning about **Cross-Platform App Development**, more specifically **Flutter**. Apart from this I'm even interested in learning about IOT based application in real life.
 
