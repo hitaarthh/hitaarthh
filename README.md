@@ -15,6 +15,8 @@
 
 🕹 I'm a person who is even into gaming also, games like _Call of Duty, Clash of Clans, Minecraft_ are one of those few games which touched my heart.
 
+# ⽭ Languages Used:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&langs_count=8)](https://github.com/hitaarthh/github-readme-stats)
 
 **<<**[My Contact Details](https://linktr.ee/hitaarthh)**>>**
