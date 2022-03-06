@@ -18,6 +18,7 @@
 ## 📈 Stats for Nerds:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitaarthh&theme=radical)
 
-<<[My Contact Details](https://linktr.ee/hitaarthh)>>
+## ⽭ Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&layout=compact)
 
-
+**<<**[My Contact Details](https://linktr.ee/hitaarthh)**>>**
