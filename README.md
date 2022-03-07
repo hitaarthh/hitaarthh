@@ -1,7 +1,7 @@
 ![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra)
 
 <h1 align="center"><!-- src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><--> Hey there, I am Hitarth 👋🏻</h1> 
-<h3 align="center">I am a 1st year Electronics and Computer Engineering student from India!</h3>
+<h4 align="center">I am Pursuing my Undergarduate Programme in Electronics and Computer Engineering from Amrita Vishwa Vidyaeetham.</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hitarth-anand-rohra-956795188/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
