@@ -1,7 +1,10 @@
-# Hi there 👋                         
-# 🚀 About me         
 
+# Hi, I'm Hitarth! 👋         
+
+## 🚀 About Me
 🎓 I'm Hitarth Anand Rohra, a 19 year old student, pursuing my Undergraduate Program in Electronics and Computer Engineering from [Amrita Vishwa Vidyapeetham](https://amrita.edu/), Amritapuri Campus. I gathered My Skills loitering over the Internet, and I like working on FrontEnd as well as BackEnd Development.
+
+## 🛠 Skills
 
 💻 I enjoy contributing to **Open Source Projects** and I am really enthusiastic about learning new technologies. In 2021, I had improved my skills in the field of **Web Development**(**Both FrontEnd and BackEnd Development**). In 2022, till now i had been learning about **Cross-Platform App Development**, more specifically **Flutter**. Apart from this I'm even interested in learning about IOT based application in real life.
 
@@ -14,9 +17,5 @@
 ✈️ I love travelling solo, my last trip was finding the secret of cosmos in my dreams.
 
 🕹 I'm a person who is even into gaming also, games like _Call of Duty, Clash of Clans, Minecraft_ are one of those few games which touched my heart.
-
-# ⽭ Languages Used:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&langs_count=8)](https://github.com/hitaarthh/github-readme-stats)
 
 **<<**[My Contact Details](https://linktr.ee/hitaarthh)**>>**
