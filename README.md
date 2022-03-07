@@ -1,7 +1,10 @@
-![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra)
+![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh)
+
+               
 
 <h1 align="center"><!-- src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><--> Hey there, I am Hitarth 👋🏻</h1> 
-<h3 align="center">I am Pursuing my Undergarduate in Electronics and Computer Engineering from <a href="https://amrita.edu/">Amrita Vishwa Vidyapeetham.</a> </h3>
+<h3 align="center">I am Pursuing my Undergarduate in Electronics and Computer Engineering from<a href="https://amrita.edu/">Amrita Vishwa Vidyapeetham.</a> </h3>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/hitarth-anand-rohra-956795188/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.hackerearth.com/@hitarth.rohra" target="_blank"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
