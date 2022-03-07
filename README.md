@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&theme=blue-green" alt="Most used language">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitaarthh&theme=blue-green" alt="Streaks" align="right">
 </div>
-<hr>
+<br>
 
 
 ## ⽭ Languages and Tools I work with:
