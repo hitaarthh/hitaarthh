@@ -1,8 +1,19 @@
+![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra)
 
-# Hi, I'm Hitarth! 👋         
+<h1 align="center"><!-- src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><--> Hey there, I am Hitarth 👋🏻</h1> 
+<h3 align="center">I am a 1st year Electronics and Computer Engineering student from India!</h3>
 
-## 🚀 About Me
-🎓 I'm Hitarth Anand Rohra, a 19 year old student, pursuing my Undergraduate Program in Electronics and Computer Engineering from [Amrita Vishwa Vidyapeetham](https://amrita.edu/), Amritapuri Campus. I gathered My Skills loitering over the Internet, and I like working on FrontEnd as well as BackEnd Development.
+<div align="center">
+  <a href="https://www.linkedin.com/in/hitarth-anand-rohra-956795188/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.hackerearth.com/@hitarth.rohra" target="_blank"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+  <a href="https://www.hackerrank.com/hitarth_rohra" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+
+</div>
+<hr>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&theme=radical" alt="GitHub Stats" height="180" align="right">
+
 
 ## 🛠 Skills
 
@@ -18,4 +29,58 @@
 
 🕹 I'm a person who is even into gaming also, games like _Call of Duty, Clash of Clans, Minecraft_ are one of those few games which touched my heart.
 
-**<<**[My Contact Details](https://linktr.ee/hitaarthh)**>>**
+<br>
+<div style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&theme=blue-green" alt="Most used language">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitaarthh&theme=blue-green" alt="Streaks" align="right">
+</div>
+<hr>
+
+## ⽭ Languages and Tools I work with:
+
+<div align="center">
+  <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white">
+
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white">
+    <img alt="NumPy"src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)">
+  <img alt="Git-Lab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <br>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <br>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img alt="Node js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <br>
+  <img alt="MS Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img alt="MS Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  <img alt="MS Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+  <br>
+    <img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC?&style=for-the-badge&logo=Canva&logoColor=white">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+<hr>
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=hitaarthh&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=blue-green)
+
+
+
+<div>
+   <img src="https://img.shields.io/badge/Device%20Used-%3A-black" height= 28>
+   <img src="https://img.shields.io/badge/-MacBook%20Air%20M1-black" height= 28>
+
+  
+</div> 
+
