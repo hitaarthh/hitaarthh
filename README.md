@@ -1,4 +1,5 @@
-![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh)
+![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh) <a href="https://linktr.ee/hitaarthh"><img src="https://img.shields.io/badge/-Contact%20me%3A-green" alt="Contact me"></a>
+
 
                
 
