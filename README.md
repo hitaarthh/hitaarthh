@@ -5,10 +5,12 @@
 <h1 align="center"><!-- src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><--> Hey there, I am Hitarth! 👋🏻</h1> 
 <h3 align="center">I am Pursuing my Undergarduate in Electronics and Computer Engineering from <a href="https://amrita.edu/">Amrita Vishwa Vidyapeetham.</a> </h3>
 
+
 <div align="center">
   <a href="https://www.linkedin.com/in/hitarth-anand-rohra-956795188/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://gitlab.com/hitaarthh" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href="mailto:hitarth.rohra@gmail.com" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.hackerearth.com/@hitarth.rohra" target="_blank"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+  
   <a href="https://www.hackerrank.com/hitarth_rohra" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 
 </div>
