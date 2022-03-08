@@ -2,7 +2,7 @@
 
                
 
-<h1 align="center"><!-- src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><--> Hey there, I am Hitarth 👋🏻</h1> 
+<h1 align="center"><!-- src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><--> Hey there, I am Hitarth! 👋🏻</h1> 
 <h3 align="center">I am Pursuing my Undergarduate in Electronics and Computer Engineering from <a href="https://amrita.edu/">Amrita Vishwa Vidyapeetham.</a> </h3>
 
 <div align="center">
