@@ -3,7 +3,7 @@
 
                
 
-<h1 align="center"> Hey there, I am Hitarth!  <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width= 40></h1> 
+<h1 align="center"> Hey there, I am Hitarth!!  <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width= 40></h1> 
 <h3 align="center">I am Pursuing my Undergarduate in Electronics and Computer Engineering from <a href="https://amrita.edu/">Amrita Vishwa Vidyapeetham.</a> </h3>
 
 
