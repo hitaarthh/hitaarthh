@@ -1,12 +1,9 @@
 ![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh) <a href="https://linktr.ee/hitaarthh"><img src="https://img.shields.io/badge/-Contact-greens" alt="Contact"></a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=50&lines=Hey+there%2C+I'm+Hitarth!!👋🏻)](https://git.io/typing-svg)
 
                
-
-<h1 align="center"> Hey there, I am Hitarth!  <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width= 40></h1> 
-<h3 align="center">I am Pursuing my Undergarduate in Electronics and Computer Engineering from <a href="https://amrita.edu/">Amrita Vishwa Vidyapeetham.</a> </h3>
-
-
+<h2 align="center">I am Pursuing my Undergarduate in Electronics and Computer Engineering from <a href="https://amrita.edu/">Amrita Vishwa Vidyapeetham.</a> </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/hitarth-anand-rohra-956795188/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://gitlab.com/hitaarthh" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
