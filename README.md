@@ -1,6 +1,6 @@
 ![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh) <a href="https://linktr.ee/hitaarthh"><img src="https://img.shields.io/badge/-Contact-greens" alt="Contact"></a>
 
-![](https://readme-typing-svg.herokuapp.com?size=35&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=70&lines=Hey+there%2C+I'm+Hitarth!!👋🏻)
+![](https://readme-typing-svg.herokuapp.com?size=40&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=70&lines=Hey+there%2C+I'm+Hitarth!!👋🏻)
 
                
 <h2 align="center">I am Pursuing my Undergarduate in Electronics and Computer Engineering from <a href="https://amrita.edu/">Amrita Vishwa Vidyapeetham.</a> </h2>
