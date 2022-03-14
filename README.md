@@ -22,7 +22,7 @@
 
 ⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from **guitar, football, weight lifting**, touch typing to some whacky ones like writing both of my hands(trying to be ambidextrous) and a person trying to study psychology of human minds around me(You never know when im experimenting on you😏).
 
-📖 I love reading books on **personal development**, **financial literacy**.
+📖 I love reading books on **Personal Development**, **Financial Literacy**.
 
 🎸 **Favourite Quote till date** - _Tough times create strong men, strong men create weak times, weak times create weak men._
 
