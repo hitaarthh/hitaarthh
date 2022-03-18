@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&theme=radical" alt="GitHub Stats" height="180" align="right">
 
 
-## 🛠 Skills
+## 🛠 Skills:
 
 💻 I enjoy contributing to **Open Source Projects** and I am really enthusiastic about learning new technologies. In 2021, I had improved my skills in the field of **Web Development**(**Both FrontEnd and BackEnd Development**). In 2022, till now i had been learning about **Cross-Platform App Development**, more specifically **Flutter**. Apart from this I'm even interested in learning about IOT based application in real life. Currently I'm learning and working on Flutter Based Cross-Platform Application Development. Checkout my [Flutter Projects.](https://github.com/hitaarthh/Flutter-Projects.git)
 
