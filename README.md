@@ -78,9 +78,5 @@
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=hitaarthh&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=blue-green)
 
-<div id="header" align="center">
-    <a href="yhttps://github.com/Ahmed-Aoulad-Amar/">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="800"/>
-       </a>
-</div>
+
 
