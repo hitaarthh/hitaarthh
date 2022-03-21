@@ -1,5 +1,7 @@
 ![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh) <a href="https://linktr.ee/hitaarthh"><img src="https://img.shields.io/badge/-Contact-greens" alt="Contact"></a>
 
+
+
 ![](https://readme-typing-svg.herokuapp.com?size=40&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=70&lines=Hey+there%2C+I'm+Hitarth!!👋🏻)
 
                
@@ -76,5 +78,9 @@
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=hitaarthh&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=blue-green)
 
-
+<div id="header" align="center">
+    <a href="yhttps://github.com/Ahmed-Aoulad-Amar/">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="800"/>
+       </a>
+</div>
 
