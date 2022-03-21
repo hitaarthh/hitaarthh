@@ -78,10 +78,3 @@
 
 
 
-<div>
-   <img src="https://img.shields.io/badge/Device%20Used-%3A-black" height= 28>
-   <img src="https://img.shields.io/badge/-MacBook%20Air%20M1-black" height= 28>
-
-  
-</div> 
-
