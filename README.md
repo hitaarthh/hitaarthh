@@ -1,6 +1,9 @@
+<div align="center">
+<img width="1200" alt="photo" src="https://user-images.githubusercontent.com/91147942/159723340-fb7d2dd5-8ce1-4b07-960a-d951a53bf9be.png">
+</div>
+
+
 ![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh) <a href="https://linktr.ee/hitaarthh"><img src="https://img.shields.io/badge/-Contact%3A-green[700]" alt="Contact"></a>
-
-
 
 ![](https://readme-typing-svg.herokuapp.com?size=35&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=100&lines=Hey+there%2C+I'm+Hitarth+Anand+Rohra!!👋🏻;+Welcome+To+My+Profile!!😇+)
 
