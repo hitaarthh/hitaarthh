@@ -79,7 +79,7 @@
 </div>
 <hr>
 
-## 🏅 Achievements:
+## 🏅 Achievements & Certifications:
 <div> <a href="https://www.credly.com/badges/4d567519-8207-4ca7-94e0-3ac6a35525d9"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height="125"</a>
   </div>
   
