@@ -80,9 +80,10 @@
 <hr>
 
 ## 🏅 Achievements & Certifications:
-<div> <a href="https://www.credly.com/badges/4d567519-8207-4ca7-94e0-3ac6a35525d9"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height="125"></a>
-  <a href="https://www.hackveda.in/one2one_old/verifycertificate.php?certi_encypt_key=MMTE/1028/58/25930" ><img src = "https://user-images.githubusercontent.com/91147942/160182381-87c97c3d-6280-4bcd-9b06-5a4fd4b890cb.png" height="125">
-  </div>
+<div> 
+  <a href="https://www.credly.com/badges/ad007576-e094-43f3-ad02-443da5c2c1ca" ><img src = "https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="125">
+    <a href="https://www.credly.com/badges/4d567519-8207-4ca7-94e0-3ac6a35525d9"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height="125"></a>
+</div>
   
 
   
