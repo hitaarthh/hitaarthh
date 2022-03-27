@@ -81,13 +81,16 @@
 
 ## 🏅 Achievements & Certifications:
 
-<div>
+<div align="center">
 <a href="https://www.credly.com/badges/ad007576-e094-43f3-ad02-443da5c2c1ca" target="_blank"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="125"></a>
 <a href="https://www.credly.com/badges/4d567519-8207-4ca7-94e0-3ac6a35525d9" target="_blank"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height="125">
 <a href="https://www.hackveda.in/one2one_old/verifycertificate.php?certi_encypt_key=MJAE/1028/58/15843" target="_blank"><img src="https://user-images.githubusercontent.com/91147942/160294420-03b0b415-72b5-45b4-be12-8212a3bbec8e.png" height="125">
 </div>
       
+<div align="center">      
+
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=hitaarthh&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=blue-green)
 
+</div>
 
 
