@@ -1,6 +1,6 @@
 <div align="center">
 <img width="1200" alt="photo" src="https://user-images.githubusercontent.com/91147942/159723340-fb7d2dd5-8ce1-4b07-960a-d951a53bf9be.png">
-</div>
+</div
 
 
 ![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh) <a href="https://linktr.ee/hitaarthh"><img src="https://img.shields.io/badge/-Contact%20%F0%9F%93%87-green[700]" alt="Contact"></a>
