@@ -25,7 +25,7 @@
 
 💻 I enjoy contributing to **Open Source Projects** and I am really enthusiastic about learning new technologies. In 2021, I had improved my skills in the field of **Web Development**(**Both FrontEnd and BackEnd Development**). In 2022, till now i had been learning about **Cross-Platform App Development**, more specifically **Flutter**. Apart from this I'm even interested in learning about IOT based application in real life. Currently I'm learning and working on Flutter Based Cross-Platform Application Development. Checkout my [Flutter Projects.](https://github.com/hitaarthh/Flutter-Projects.git)
 
-⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from **guitar, football, weight lifting**, touch typing to some whacky ones like writing with both of my hands(trying to be ambidextrous) and also trying to be a person who could study the psychology(You never know when im experimenting on you😏).
+⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from **guitar, football, weight lifting**, touch typing to some whacky ones like writing with both of my hands(trying to be ambidextrous) and also trying to be a person who could study the psychology of human mind(You never know when im experimenting on you😏).
 
 📖 I love reading books on **Personal Development**, **Financial Literacy**.
 
