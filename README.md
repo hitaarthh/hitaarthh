@@ -39,8 +39,9 @@
 
 <br>
 <div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&theme=blue-green" alt="Most used language">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitaarthh&theme=blue-green" alt="Streaks" align="right">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&theme=blue-green" alt="Most used language"> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitaarthh&theme=blue-green" alt="Streaks" align="right"> -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=hitaarthh&bg_color=000000&color=f6f4f4&line=3700ff&point=c2c2c2&area=true&hide_border=true">
 </div>
 <br>
 
