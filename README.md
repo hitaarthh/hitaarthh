@@ -88,7 +88,9 @@
 <a href="https://www.credly.com/badges/ad007576-e094-43f3-ad02-443da5c2c1ca" target="_blank"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="125"></a>
 <a href="https://www.credly.com/badges/4d567519-8207-4ca7-94e0-3ac6a35525d9" target="_blank"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height="125">
 <a href="https://www.hackveda.in/one2one_old/verifycertificate.php?certi_encypt_key=MJAE/1028/58/15843" target="_blank"><img src="https://user-images.githubusercontent.com/91147942/160294420-03b0b415-72b5-45b4-be12-8212a3bbec8e.png" height="125">
-<a href="https://www.hackerrank.com/certificates/63ae0d74b831" target="_blank"><img height="125" alt="Screenshot 2022-03-31 at 12 29 59 AM" src="https://user-images.githubusercontent.com/91147942/160926113-e2c2ac5a-42b8-4f60-a2cd-511c4b42d870.png"></a>
+<a href="https://www.hackerrank.com/certificates/63ae0d74b831" target="_blank"><img height="125" alt="badge Java" src="https://user-images.githubusercontent.com/91147942/160926113-e2c2ac5a-42b8-4f60-a2cd-511c4b42d870.png"></a>
+  <a href="https://www.hackerrank.com/certificates/00d58a3687f8"><img height="125" alt="Badge Problem Solving" src="https://user-images.githubusercontent.com/91147942/161805395-e3b09f50-2e64-477d-a4a9-6d060275292a.png"></a>  
+
 
   
 </div>
