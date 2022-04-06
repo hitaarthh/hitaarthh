@@ -86,7 +86,6 @@
 
 <div>
   <a href="https://www.hackerrank.com/hitarth_rohra"><img height="125" alt="Badge" src="https://user-images.githubusercontent.com/91147942/162021307-52c92f83-1c08-4a4a-bfd0-264fd2850199.png"></a>  
-  <a href="https://www.hackveda.in/one2one_old/verifycertificate.php?certi_encypt_key=MJAE/1028/58/15843" target="_blank"><img src="https://user-images.githubusercontent.com/91147942/160294420-03b0b415-72b5-45b4-be12-8212a3bbec8e.png" height="125">
   <a href="https://www.hackerrank.com/certificates/63ae0d74b831" target="_blank"><img height="125" alt="badge Java" src="https://user-images.githubusercontent.com/91147942/160926113-e2c2ac5a-42b8-4f60-a2cd-511c4b42d870.png"></a>
   <a href="https://www.hackerrank.com/certificates/00d58a3687f8"><img height="125" alt="Badge Problem Solving" src="https://user-images.githubusercontent.com/91147942/161805395-e3b09f50-2e64-477d-a4a9-6d060275292a.png"></a>  
   <a href="https://www.hackerrank.com/certificates/7c46de529580"><img height="125" alt="Screenshot 2022-04-06 at 9 01 24 PM" src="https://user-images.githubusercontent.com/91147942/162011936-9000e9b3-7d69-487c-ac98-877653910e08.png"></a>
