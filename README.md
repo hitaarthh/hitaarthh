@@ -83,8 +83,8 @@
 
 ## 🏅 Achievements & Certifications:
 
-<div>
-  <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-39accb8c-c793-465a-9951-cabc951d514e.jpg">  <img height="125" alt="Flutter" src="https://user-images.githubusercontent.com/91147942/162176441-ea90d659-37f3-488d-b631-16f2c89b96df.png" "></a> 
+<div align="center">
+  <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-39accb8c-c793-465a-9951-cabc951d514e.jpg">  <img height="125" alt="Flutter" src="https://res.cloudinary.com/teepublic/image/private/s--gpc7TJTO--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1585726530/production/designs/8796655_0.jpg" "></a> 
   <a href="https://www.credly.com/badges/ad007576-e094-43f3-ad02-443da5c2c1ca" target="_blank"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cyber Security"height="125"></a>
  <a href="https://www.credly.com/badges/4d567519-8207-4ca7-94e0-3ac6a35525d9" target="_blank"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cyber Security Essentials" height="125">
   <a href="https://www.hackerrank.com/hitarth_rohra"><img height="125" alt="Golden Java Badge" src="https://user-images.githubusercontent.com/91147942/162021307-52c92f83-1c08-4a4a-bfd0-264fd2850199.png"></a>  
