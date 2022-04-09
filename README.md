@@ -84,19 +84,17 @@
 ## 🏅 Achievements & Certifications:
 
 <div>
-  <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-39accb8c-c793-465a-9951-cabc951d514e.jpg">  <img height="125" alt="udemy" src="https://user-images.githubusercontent.com/91147942/162176441-ea90d659-37f3-488d-b631-16f2c89b96df.png"></a> 
-  <a href="https://www.credly.com/badges/ad007576-e094-43f3-ad02-443da5c2c1ca" target="_blank"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="125"></a>
- <a href="https://www.credly.com/badges/4d567519-8207-4ca7-94e0-3ac6a35525d9" target="_blank"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Intro to Cyber Security" height="125">
-  <a href="https://www.hackerrank.com/hitarth_rohra"><img height="125" alt="Cyber Security Essentials" src="https://user-images.githubusercontent.com/91147942/162021307-52c92f83-1c08-4a4a-bfd0-264fd2850199.png"></a>  
-  <a href="https://www.hackerrank.com/certificates/63ae0d74b831" target="_blank"><img height="125" alt="badge Java" src="https://user-images.githubusercontent.com/91147942/160926113-e2c2ac5a-42b8-4f60-a2cd-511c4b42d870.png"></a>
-  <a href="https://www.hackerrank.com/certificates/00d58a3687f8"><img height="125" alt="Problem Solving Basic" src="https://user-images.githubusercontent.com/91147942/161805395-e3b09f50-2e64-477d-a4a9-6d060275292a.png"></a>  
-  <a href="https://www.hackerrank.com/certificates/7c46de529580"><img height="125" alt="Problem Solving Intermediate" src="https://user-images.githubusercontent.com/91147942/162011936-9000e9b3-7d69-487c-ac98-877653910e08.png"></a>
-  <a href="https://www.hackerrank.com/certificates/69183b9c0248"><img height="125" alt="JavaScript Basic" src="https://user-images.githubusercontent.com/91147942/162014030-09eea47d-53e5-479b-a7ad-215086bc412a.png"></a>  
+  <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-39accb8c-c793-465a-9951-cabc951d514e.jpg">  <img height="125" alt="Flutter" src="https://user-images.githubusercontent.com/91147942/162176441-ea90d659-37f3-488d-b631-16f2c89b96df.png" "></a> 
+  <a href="https://www.credly.com/badges/ad007576-e094-43f3-ad02-443da5c2c1ca" target="_blank"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cyber Security"height="125"></a>
+ <a href="https://www.credly.com/badges/4d567519-8207-4ca7-94e0-3ac6a35525d9" target="_blank"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cyber Security Essentials" height="125">
+  <a href="https://www.hackerrank.com/hitarth_rohra"><img height="125" alt="Golden Java Badge" src="https://user-images.githubusercontent.com/91147942/162021307-52c92f83-1c08-4a4a-bfd0-264fd2850199.png"></a>  
+  <a href="https://www.hackerrank.com/certificates/63ae0d74b831" target="_blank"><img height="125" alt=" Java Basic" src="https://user-images.githubusercontent.com/91147942/162576651-8a107096-c0a7-4446-ab53-eeec624678c8.png"></a>
+  <a href="https://www.hackerrank.com/certificates/00d58a3687f8"><img height="125" alt="Problem Solving Basic" src="https://user-images.githubusercontent.com/91147942/162576600-68232853-7121-4696-bc2e-9ae6677a010b.png"></a>  
+  <a href="https://www.hackerrank.com/certificates/7c46de529580"><img height="125" alt="Problem Solving Intermediate" src="https://user-images.githubusercontent.com/91147942/162576545-22f16077-4337-43bd-9700-74cac023d47b.png"></a>
+  <a href="https://www.hackerrank.com/certificates/69183b9c0248"><img height="125" alt="JavaScript Basic" src="https://user-images.githubusercontent.com/91147942/162576481-8b20f32c-ac06-4239-be31-8082caa4ff0e.png"></a>  
   <a href="https://www.hackerrank.com/certificates/d1a367cfcb68" target="_main"><img src="https://user-images.githubusercontent.com/91147942/162576377-0b476290-a1ba-4478-ba5b-98187d07d00a.png" alt="SQL Basic"height="125"</a>
 </div>
 
-</div>
-      
 <div align="center">      
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=hitaarthh&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=blue-green)
