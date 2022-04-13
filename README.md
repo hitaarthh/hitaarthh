@@ -81,19 +81,6 @@
 </div>
 <hr>
 
-## 🏅 Achievements & Certifications:
-
-<div align="center">
-  <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-39accb8c-c793-465a-9951-cabc951d514e.jpg">  <img height="125" alt="Flutter" src="https://res.cloudinary.com/teepublic/image/private/s--gpc7TJTO--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1585726530/production/designs/8796655_0.jpg" "></a> 
-  <a href="https://www.credly.com/badges/ad007576-e094-43f3-ad02-443da5c2c1ca" target="_blank"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cyber Security"height="125"></a>
- <a href="https://www.credly.com/badges/4d567519-8207-4ca7-94e0-3ac6a35525d9" target="_blank"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cyber Security Essentials" height="125">
-  <a href="https://www.hackerrank.com/hitarth_rohra"><img height="125" alt="Golden Java Badge" src="https://user-images.githubusercontent.com/91147942/162021307-52c92f83-1c08-4a4a-bfd0-264fd2850199.png"></a>  
-  <a href="https://www.hackerrank.com/certificates/63ae0d74b831" target="_blank"><img height="125" alt=" Java Basic" src="https://user-images.githubusercontent.com/91147942/162576651-8a107096-c0a7-4446-ab53-eeec624678c8.png"></a>
-  <a href="https://www.hackerrank.com/certificates/00d58a3687f8"><img height="125" alt="Problem Solving Basic" src="https://user-images.githubusercontent.com/91147942/162576600-68232853-7121-4696-bc2e-9ae6677a010b.png"></a>  
-  <a href="https://www.hackerrank.com/certificates/7c46de529580"><img height="125" alt="Problem Solving Intermediate" src="https://user-images.githubusercontent.com/91147942/162576545-22f16077-4337-43bd-9700-74cac023d47b.png"></a>
-  <a href="https://www.hackerrank.com/certificates/69183b9c0248"><img height="125" alt="JavaScript Basic" src="https://user-images.githubusercontent.com/91147942/162576481-8b20f32c-ac06-4239-be31-8082caa4ff0e.png"></a>  
-  <a href="https://www.hackerrank.com/certificates/d1a367cfcb68" target="_main"><img src="https://user-images.githubusercontent.com/91147942/162576377-0b476290-a1ba-4478-ba5b-98187d07d00a.png" alt="SQL Basic"height="125"</a>
-</div>
 
 <div align="center">      
 
