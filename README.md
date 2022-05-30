@@ -36,7 +36,6 @@
 
 🕹 I'm a person who is even into gaming also, games like _Call of Duty, Clash of Clans, Minecraft_ are one of those few games which touched my heart.
 
-🕸 Checkout my <a href="https://hitaarthh.github.io/#)(Use Laptop for better User Experience" target="_main">Portfolio Website.</a> 
 <br>
 <div style="display: inline-block;">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&theme=blue-green" alt="Most used language"> -->
