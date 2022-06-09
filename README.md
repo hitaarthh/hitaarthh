@@ -24,17 +24,19 @@
 
 ## 🛠 Skills:
 
-💻 I enjoy contributing to **Open Source Projects** and I am really enthusiastic about learning new technologies. In 2021, I had improved my skills in the field of **Web Development**(**Both FrontEnd and BackEnd Development**). In 2022, till now i had been learning about **Cross-Platform App Development**, more specifically **Flutter**. Apart from this I'm even interested in learning about IOT based application in real life. Currently I'm learning and working on Flutter Based Cross-Platform Application Development. Checkout my [Flutter Projects.](https://github.com/hitaarthh/Flutter-Projects.git)
+🧑🏻‍🎓 I'm a 19 year old student from Kanpur, UttarPradesh, pursuing my Undergraduate in Electronics and Computer Engineering from Amrita Vishwa Vidyapeetham.
 
-⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from **guitar, football, weight lifting**, touch typing to some whacky ones like writing with both of my hands(trying to be ambidextrous) and also trying to be a person who could study the psychology of human mind(You never know when im experimenting on you😏).
+💻 Currently I'm a full time Crew member at Bi0s Hardware, learning some really amazing things in the field of Cyber security, Reverse Engineering, Computer hardware, Embedded Systems, Wireless networks and much more. Apart from this I really love learning new technologies, irrespective if my domain. Currently I'm working on Web and Cross-Platform API Development.
 
-📖 I love reading books on **Personal Development**, **Financial Literacy**.
+⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from guitar, football, weight lifting, touch typing to some whacky ones like writing with both of my hands(trying to be ambidextrous) and also trying to be a person who could study the psychology of human mind( You never know when I'm experimenting on you ).
 
-🎸 **Favourite Quote till date** - _Tough times create strong men, strong men create weak times, weak times create weak men._
+📖 I love reading books on Personal Development, Financial Literacy.
+
+🎸 Favourite Quote till date - Tough times create strong men, strong men create weak times, weak times create weak men.
 
 ✈️ I love travelling solo, my last trip was finding the secret of cosmos in my dreams.
 
-🕹 I'm a person who is even into gaming also, games like _Call of Duty, Clash of Clans, Minecraft_ are one of those few games which touched my heart.
+🕹 I'm a person who is even into gaming, games like Call of Duty, Clash of Clans, Minecraft are one of those few games which touched my heart.
 
 <br>
 <div style="display: inline-block;">
