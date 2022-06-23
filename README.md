@@ -1,6 +1,7 @@
 <div align="center">
-<img width="1439" alt="bi0s hardware" src="https://user-images.githubusercontent.com/91147942/174141786-a84c78ad-5ac2-46c6-b933-ede4ba67cb1a.png">
+<img width="1439" alt="photo" src="https://user-images.githubusercontent.com/91147942/175361503-576e4ef4-51dd-4e5a-a2e5-b03f366049d4.png" align="center">
 </div>
+
 
 
 ![Badge](https://cp-logo.vercel.app/codechef/hitarth_rohra) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh) <a href="https://linktr.ee/hitaarthh"><img src="https://img.shields.io/badge/-Contact%20%F0%9F%93%87-green[700]" alt="Contact"></a> <a href="https://hitaarthh.github.io/" target="_main"><img src="https://img.shields.io/badge/-Portfolio%20Website%F0%9F%92%BC-green[700]"></a>   <a href="https://bi0s.in/"><img src="https://img.shields.io/badge/teamBi0s-Hardware-black" align="right"></a>
