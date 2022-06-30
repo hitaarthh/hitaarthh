@@ -27,8 +27,6 @@
 
 🧑🏻‍🎓 I'm a 19 year old student from Kanpur, UttarPradesh, pursuing my Undergraduate in Electronics and Computer Engineering from Amrita Vishwa Vidyapeetham.
 
-💻 Currently I'm a full time Crew member at Bi0s Hardware, learning some really amazing things in the field of Cyber security, Reverse Engineering, Computer hardware, Embedded Systems, Wireless networks and much more. Apart from this I really love learning new technologies, irrespective if my domain. Currently I'm working on Web and Cross-Platform API Development.
-
 ⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from guitar, football, weight lifting, touch typing to some whacky ones like writing with both of my hands(trying to be ambidextrous) and also trying to be a person who could study the psychology of human mind( You never know when I'm experimenting on you ).
 
 📖 I love reading books on Personal Development, Financial Literacy.
