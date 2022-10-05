@@ -15,9 +15,6 @@
 </div>
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&theme=radical" alt="GitHub Stats" height="180" align="right">
-
-## 🛠 Skills:
 
 💻 Currently I'm a full time member at <a href="https://bi0s.in/hardware.html">Bi0s Hardware</a>, learning some really amazing things in the field of Cyber security, Reverse Engineering, Computer hardware, Embedded Systems, Wireless networks and much more. Apart from this I'm also working on Web and Cross-Platform App Development.
 
