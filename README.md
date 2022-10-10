@@ -16,7 +16,7 @@
 <hr>
 
 
-💻 Currently I'm a full time member at <a href="https://bi0s.in/hardware.html">Bi0s Hardware</a>, learning some really amazing things in the field of Cyber security, Reverse Engineering, Computer hardware, Embedded Systems, Wireless networks and much more. Apart from this I'm also working on Web and Cross-Platform App Development.
+💻 I am a second year Electronics and Computer Science undergraduate interested in web development and security, embedded systems and IOT security. Currently I'm a full time Undergraduate Researcher at [teamBi0s](https://bi0s.in/), working on some amazing Projects related to Web Exploitation, Wireless Security , IOT Security, Embedded Systems and much more.
 
 ⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from **guitar, football, weight lifting**, touch typing to some whacky ones like writing with both of my hands(trying to be ambidextrous) and also trying to be a person who could study the psychology of human mind(You never know when im experimenting on you😏).
 
