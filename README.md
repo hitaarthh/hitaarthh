@@ -2,7 +2,7 @@
 <img width="1200" alt="photo" src="https://user-images.githubusercontent.com/91147942/159723340-fb7d2dd5-8ce1-4b07-960a-d951a53bf9be.png">
 </div>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh) <a href="https://linktr.ee/hitaarthh"><img src="https://img.shields.io/badge/-Contact%20%F0%9F%93%87-green[700]" alt="Contact"></a> <a href="https://hitaarthh.github.io/" target="_main"><img src="https://img.shields.io/badge/-Portfolio%20Website%F0%9F%92%BC-green[700]"></a>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh) <a href="https://linktr.ee/hitaarthh"><img src="https://img.shields.io/badge/-Contact%20%F0%9F%93%87-green[700]" alt="Contact"></a> <a href="https://linktr.ee/hitaarthh" target="_main"><img src="https://img.shields.io/badge/-More%20Links%20%F0%9F%94%97-green[700]"></a>
 
 ![](https://readme-typing-svg.herokuapp.com?size=35&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=90&lines=Hey+there%2C+I'm+Hitarth+Anand+Rohra!!👋🏻;+Welcome+To+My+Profile!!😇+)
 
