@@ -34,9 +34,8 @@
 🕸 To know more about me redirect to <a href="https://hitaarthh.github.io/#)(Use Laptop for better User Experience" target="_main">hitaarthh.github.io</a>
 
 <br>
-<div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&theme=blue-green" alt="Most used language" align="left" height="272.5">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&theme=dark" height="272.5">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&theme=dark" height="250">
 </div>
 <br>
 
