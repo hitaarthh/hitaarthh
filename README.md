@@ -39,7 +39,9 @@
 </div>
 <br>
 
-## ⽭ Languages and Tools I work with:
+<div align="center">
+<h2>⽭ Languages and Tools</h2>
+</div>
 
 <div align="center">
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white">
