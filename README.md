@@ -18,23 +18,25 @@
 
 💻 I am a second year Electronics and Computer Science undergraduate interested in web development and security, embedded systems and IOT security. Currently I'm a full time Undergraduate Researcher at [teamBi0s](https://bi0s.in/), working on some amazing Projects related to Web Exploitation, Wireless Security , IOT Security, Embedded Systems and much more.
 
+
 ⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from **guitar, football, weight lifting**, touch typing to some whacky ones like writing with both of my hands(trying to be ambidextrous) and also trying to be a person who could study the psychology of human mind(You never know when im experimenting on you😏).
 
 📖 I love reading books on **Personal Development**, **Financial Literacy**.
-
-🎸 **Favourite Quote till date** - _Tough times create strong men, strong men create weak times, weak times create weak men._
 
 ✈️ I love travelling solo, my last trip was finding the secret of cosmos in my dreams.
 
 🕹 I'm a person who is even into gaming also, games like _Call of Duty, Clash of Clans, Minecraft_ are one of those few games which touched my heart.
 
+🎸 **Favourite Quote till date** - 
+
+######  Tough times create strong men, strong men create weak times, weak times create weak men.
+
 🕸 To know more about me redirect to <a href="https://hitaarthh.github.io/#)(Use Laptop for better User Experience" target="_main">hitaarthh.github.io</a>
 
 <br>
 <div style="display: inline-block;">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&theme=blue-green" alt="Most used language"> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitaarthh&theme=blue-green" alt="Streaks" align="right"> -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=hitaarthh&bg_color=000000&color=f6f4f4&line=3700ff&point=c2c2c2&area=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&theme=blue-green" alt="Most used language" align="left" height="272.5">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&theme=dark" height="272.5">
 </div>
 <br>
 
@@ -93,6 +95,4 @@
       
 <div align="center">
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=hitaarthh&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=blue-green)
 
-</div>
