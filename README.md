@@ -37,7 +37,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&theme=dark" height="250">
 </div>
-<br>
 
 <div align="center">
 <h2>⽭ Languages and Tools</h2>
