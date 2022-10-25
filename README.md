@@ -27,7 +27,7 @@
 
 🕹 I'm a person who is even into gaming also, games like _Call of Duty, Clash of Clans, Minecraft_ are one of those few games which touched my heart.
 
-🎸 **Favourite Quote till date** - 
+🎸 **Favourite Quote till date:** 
 
 ######  Tough times create strong men, strong men create weak times, weak times create weak men.
 
