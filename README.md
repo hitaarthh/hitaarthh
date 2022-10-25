@@ -34,9 +34,7 @@
 🕸 To know more about me redirect to <a href="https://hitaarthh.github.io/#)(Use Laptop for better User Experience" target="_main">hitaarthh.github.io</a>
 
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&theme=dark" height="250">
-</div>
+
 
 <div align="center">
 <h2>⽭ Languages and Tools</h2>
@@ -76,6 +74,11 @@
   <img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 <hr>
+
+<div align="center">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="220">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="220">
+</div>
 
 <!-- ## 🏅 Achievements & Certifications:
 
