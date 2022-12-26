@@ -93,5 +93,6 @@
 </div>
 
       
-
-
+<div align="center">
+<img width="1200" alt="photo" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
+</div>
