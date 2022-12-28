@@ -82,16 +82,6 @@
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200">
 </div>
-
-<!-- <div align="center">
-    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hitaarthh&custom_title=Hitarth's%20Contribution%20Graph&bg_color=282c34&color=e3be7a&line=FFEEEE&point=bd6168&hide_border=true">
-</div>
-<br> -->
-
-<!-- <div align="center">
-  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=hitaarthh&column=8&theme=onedark&no-frame=true">
-</div>
- -->
       
 <div align="center">
 <img width="1200" alt="photo" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
