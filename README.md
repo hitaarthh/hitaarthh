@@ -7,7 +7,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com?size=35&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=90&lines=Hey+there%2C+I'm+Hitarth+Anand+Rohra!!👋🏻;+Welcome+To+My+Profile!!😇+)
 
-<h2 align="center">Junior at <a href="https://amrita.edu/">Amrita Vishwa Vidyapeetham.</a> </h2>
+<h2 align="center">Junior at<a href="https://amrita.edu/"> Amrita Vishwa Vidyapeetham.</a> </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hitarth-anand-rohra-956795188/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
