@@ -20,7 +20,7 @@
 <hr>
 
 
-💻 I am a pre-final year Electronics and Computer Science undergraduate interested in web development and security, embedded systems and IOT security. Working on some amazing Projects related to Web Exploitation, Wireless Security , IOT Security, Embedded Systems and much more.
+💻 I am a pre-final year electronics and computer Science undergraduate interested in web development and security, embedded systems and IOT security. Working on some amazing Projects related to Web Exploitation, Wireless Security , IOT Security, Embedded Systems and much more.
 
 
 ⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from **guitar, football, weight lifting**, touch typing to some whacky ones like writing with both of my hands(trying to be ambidextrous) and also trying to be a person who could study the psychology of human mind(You never know when im experimenting on you😏).
