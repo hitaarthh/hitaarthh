@@ -33,7 +33,9 @@
 
 Feel the magic yet? ✨
 
-🎸 **Favourite Quote till date:**``` Tough times create strong men, strong men create weak times, weak times create weak men.```
+🎸 **Favourite Quote till date:** 
+_*Tough times create strong men, strong men create weak times, weak times create weak men.*_
+
 
 🕸 To know more about me redirect to <a href="https://hitaarthh.github.io/#)(Use Laptop for better User Experience" target="_main">hitaarthh.github.io</a>
 
