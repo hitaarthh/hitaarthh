@@ -20,20 +20,20 @@
 <hr>
 
 
-💻 I am a pre-final year electronics and computer Science undergraduate interested in web development and security, embedded systems and IOT security. Working on some amazing Projects related to Web Exploitation, Wireless Security , IOT Security, Embedded Systems and much more.
+💻 I'm a penultimate-year wizard of electronics and computer science, weaving spells in the realms of web development, security, embedded systems, and the mystical arts of IoT security. My projects are like a tech symphony—think web exploitation concertos, wireless security sonatas, and IoT security minuets.
 
 
-⚽️ Outside the World of Tech, I love pushing myself to develop new skills ranging from **guitar, football, weight lifting**, touch typing to some whacky ones like writing with both of my hands(trying to be ambidextrous) and also trying to be a person who could study the psychology of human mind(You never know when im experimenting on you😏).
 
-📖 I love reading books on **Personal Development**, **Financial Literacy**.
 
-✈️ I love travelling solo, my last trip was finding the secret of cosmos in my dreams.
+⚽️ Beyond the enchanted lands of code, I find joy in mastering various skills, from shredding guitar riffs and dribbling footballs. I'm also on a quest to conquer the keyboard with my touch typing sorcery and attempting ambidextrous alchemy. Oh, and did I mention I'm low-key studying the human mind's secrets? Consider yourself part of my experimental cohort. 😉
 
-🕹 I'm a person who is even into gaming also, games like _Call of Duty, Clash of Clans, Minecraft_ are one of those few games which touched my heart.
+✈️ I'm an adventurer, boldly venturing into the unknown solo. My last escapade? Unraveling the secrets of the cosmos in the dream realm. No biggie.
 
-🎸 **Favourite Quote till date:** 
+🕹 As a gaming maestro, I've battled in the trenches of Call of Duty, orchestrated clan wars in Clash of Clans, and crafted pixelated wonders in Minecraft. Games? They're not just pixels; they're portals to other dimensions. 🚀
 
-######  Tough times create strong men, strong men create weak times, weak times create weak men.
+Feel the magic yet? ✨
+
+🎸 **Favourite Quote till date:**``` Tough times create strong men, strong men create weak times, weak times create weak men.```
 
 🕸 To know more about me redirect to <a href="https://hitaarthh.github.io/#)(Use Laptop for better User Experience" target="_main">hitaarthh.github.io</a>
 
