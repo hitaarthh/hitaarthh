@@ -5,7 +5,9 @@
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh)  -->
 <a href="https://linktr.ee/hitaarthh" target="_main"><img src="https://img.shields.io/badge/-More%20Links%20%F0%9F%94%97-green[700]"></a>
 
-![](https://readme-typing-svg.herokuapp.com?size=35&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=90&lines=Hey+there%2C+I'm+Hitarth+Anand+Rohra!!👋🏻;+Welcome+To+My+Profile!!😇+)
+<!-- ![](https://readme-typing-svg.herokuapp.com?size=35&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=90&lines=Hey+there%2C+I'm+Hitarth+Anand+Rohra!!👋🏻;+Welcome+To+My+Profile!!😇+) -->
+
+<h1 align="center">Hey there, I'm Hitarth Anand Rohra</h1>
 
 <h2 align="center">Junior at<a href="https://amrita.edu/"> Amrita Vishwa Vidyapeetham.</a> </h2>
 
@@ -82,9 +84,9 @@ _*Tough times create strong men, strong men create weak times, weak times create
 
 <div align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hitaarthh&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200">
+  <!-- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaarthh&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200"> -->
 </div>
       
-<div align="center">
+<!-- <div align="center">
 <img width="1200" alt="photo" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
-</div>
+</div> -->
