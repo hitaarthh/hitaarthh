@@ -30,7 +30,7 @@
 
 🕹 As a gaming maestro, I've battled in the trenches of Call of Duty, orchestrated clan wars in Clash of Clans, and crafted pixelated wonders in Minecraft. Games? They're not just pixels; they're portals to other dimensions. 🚀
 
-Didn't Feel the magic yet? ✨
+Feel the magic yet? ✨
 
 
 🎸 **Favourite Quote till date:** 
