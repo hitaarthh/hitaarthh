@@ -39,8 +39,10 @@ Feel the magic yet? ✨
 _*Tough times create strong men, strong men create weak times, weak times create weak men.*_
 
 
-🕸 To know more about me redirect to <a href="https://hitaarthh.github.io/#)(Use Laptop for better User Experience" target="_main">hitaarthh.github.io</a>
-
+<!-- 🕸 To know more about me redirect to <a href="https://hitaarthh.github.io/#)(Use Laptop for better User Experience" target="_main">hitaarthh.github.io</a> -->
+<div align="center">
+  <h3>🌐 Explore more at <a href="https://hitaarthh.github.io/">hitaarthh.github.io</a></h3>
+</div>
 <br>
 
 
@@ -90,3 +92,4 @@ _*Tough times create strong men, strong men create weak times, weak times create
 <!-- <div align="center">
 <img width="1200" alt="photo" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
 </div> -->
+
