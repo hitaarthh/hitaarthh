@@ -21,7 +21,7 @@
 </div>
 <hr>
 
-<span style="font-family: 'Courier New', monospace;">
+
 💻 I'm a penultimate-year wizard of electronics and computer science, weaving spells in the realms of web development, security, embedded systems, and the mystical arts of IoT security. My projects are like a tech symphony—think web exploitation concertos, wireless security sonatas, and IoT security minuets.
 
 ⚽️ Beyond the enchanted lands of code, I find joy in mastering various skills, from shredding guitar riffs and dribbling footballs. I'm also on a quest to conquer the keyboard with my touch typing sorcery and attempting ambidextrous alchemy. Oh, and did I mention I'm low-key studying the human mind's secrets? Consider yourself part of my experimental cohort. 😉
@@ -35,7 +35,7 @@ Didn't Feel the magic yet? ✨
 
 🎸 **Favourite Quote till date:** 
 _*Tough times create strong men, strong men create weak times, weak times create weak men.*_
-</span>
+
 
 <!-- 🕸 To know more about me redirect to <a href="https://hitaarthh.github.io/#)(Use Laptop for better User Experience" target="_main">hitaarthh.github.io</a> -->
 <div align="center">
