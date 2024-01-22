@@ -7,7 +7,7 @@
 
 <!-- ![](https://readme-typing-svg.herokuapp.com?size=35&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=90&lines=Hey+there%2C+I'm+Hitarth+Anand+Rohra!!👋🏻;+Welcome+To+My+Profile!!😇+) -->
 
-<h1 align="center">Hey there, I'm Hitarth Anand Rohra</h1>
+<h1 align="center">Hey there, I'm Hitarth Anand Rohra 👋</h1>
 
 <h2 align="center">Junior at<a href="https://amrita.edu/"> Amrita Vishwa Vidyapeetham.</a> </h2>
 
@@ -33,7 +33,7 @@
 
 🕹 As a gaming maestro, I've battled in the trenches of Call of Duty, orchestrated clan wars in Clash of Clans, and crafted pixelated wonders in Minecraft. Games? They're not just pixels; they're portals to other dimensions. 🚀
 
-Feel the magic yet? ✨
+Didn't Feel the magic yet? ✨
 
 🎸 **Favourite Quote till date:** 
 _*Tough times create strong men, strong men create weak times, weak times create weak men.*_
