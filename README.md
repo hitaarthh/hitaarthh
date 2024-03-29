@@ -2,7 +2,6 @@
 <img width="1200" alt="photo" src="https://user-images.githubusercontent.com/91147942/159723340-fb7d2dd5-8ce1-4b07-960a-d951a53bf9be.png">
 </div>
 
-<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh)  -->
 <a href="https://linktr.ee/hitaarthh" target="_main"><img src="https://img.shields.io/badge/-More%20Links%20%F0%9F%94%97-green[700]"></a> <a href="https://twitter.com/hitaarthh" ><img src="https://img.shields.io/twitter/follow/hitaarthh.svg?style=social" /></a> <a href=""><img src="https://img.shields.io/badge/hitarth__rohra-blue?style=rounded-square&logo=linkedin"/></a>
 
 
