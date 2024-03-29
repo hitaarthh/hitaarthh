@@ -3,7 +3,7 @@
 </div>
 
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hitaarthh.hitaarthh)  -->
-<a href="https://linktr.ee/hitaarthh" target="_main"><img src="https://img.shields.io/badge/-More%20Links%20%F0%9F%94%97-green[700]"></a> <a href="https://twitter.com/hitaarthh" ><img src="https://img.shields.io/twitter/follow/hitaarthh.svg?style=social" /> </a>
+<a href="https://linktr.ee/hitaarthh" target="_main"><img src="https://img.shields.io/badge/-More%20Links%20%F0%9F%94%97-green[700]"></a> <a href="https://twitter.com/hitaarthh" ><img src="https://img.shields.io/twitter/follow/hitaarthh.svg?style=social" /></a> <a href=""><img src="https://img.shields.io/badge/hitarth__rohra-blue?style=rounded-square&logo=linkedin"/></a>
 
 
 <!-- ![](https://readme-typing-svg.herokuapp.com?size=35&color=5C89F7&background=3FCBFF00&center=true&multiline=true&width=1000&height=90&lines=Hey+there%2C+I'm+Hitarth+Anand+Rohra!!👋🏻;+Welcome+To+My+Profile!!😇+) -->
@@ -12,11 +12,11 @@
 
 <h2 align="center">Junior at<a href="https://amrita.edu/"> Amrita Vishwa Vidyapeetham.</a> </h2>
 
-<div align="center">
+<!--   <div align="center">
   <a href="https://www.linkedin.com/in/hitarth-anand-rohra-956795188/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/hitaarthh/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://gitlab.com/hitaarthh" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
-<!--   <a href="https://twitter.com/hitaarthh" target="_blank"><img alt="twitter"src="https://img.shields.io/badge/-twitter-1C9BEF?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/hitaarthh" target="_blank"><img alt="twitter"src="https://img.shields.io/badge/-twitter-1C9BEF?style=for-the-badge&logo=twitter&logoColor=white"></a>
  -->
 </div>
 <hr>
