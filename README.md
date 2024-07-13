@@ -9,7 +9,7 @@
 
 <h1 align="center">Hey there, I'm Hitarth Anand Rohra 👋</h1>
 
-<h2 align="center">Junior at<a href="https://amrita.edu/"> Amrita Vishwa Vidyapeetham.</a> </h2>
+<h2 align="center">Senior at<a href="https://amrita.edu/"> Amrita Vishwa Vidyapeetham.</a> </h2>
 
 <!--   <div align="center">
   <a href="https://www.linkedin.com/in/hitarth-anand-rohra-956795188/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
