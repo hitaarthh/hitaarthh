@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Engineer by day ☼ and a Software Architect by night ☾
+#### A Student by day ☼ and a Software Architect by night ☾
 
 Final Year at [Amrita Vishwa Vidyapeetham](https://amrita.edu/);
 
