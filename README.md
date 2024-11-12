@@ -2,7 +2,7 @@
 
 #### A Student by day ☼ and a Software Developer by night ☾
 
-Final Year at [Amrita Vishwa Vidyapeetham](https://amrita.edu/);
+Final Year at [Amrita Vishwa Vidyapeetham](https://amrita.edu/)
 
 - ⚙️ I use daily: `.java`, `.js`, `.ts`, `.py`, `.html`, `.css`, `.sql`
 - 🌍 I'm mostly active in **Full-Stack Development** and **DevOps**
