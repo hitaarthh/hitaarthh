@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Student by day ☼ and a Software Developer by night ☾
+#### A Software Developer by day ☼ and a Student by night ☾
 
 Final Year at [Amrita Vishwa Vidyapeetham](https://amrita.edu/)
 
