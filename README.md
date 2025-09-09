@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A software developer by day ☼ and an enthusiast by night ☾
+#### Engineering CS. Full-stack generalist. Shipped an app with 1k+ downloads. Now building at one of the coolest Bay Area startups — remotely.
 
 - ⚙️ I use daily: `.java`, `.js`, `.ts`, `.go`,`.py`, `.html`, `.css`, `.sql`
 - 🌍 I'm mostly active in **Full-Stack Development** and **DevOps**
